@@ -212,3 +212,4 @@ def check_input6():
 
 check_input6()
 
+# task updated, please, review
